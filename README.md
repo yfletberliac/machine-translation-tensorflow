@@ -1,0 +1,2 @@
+# MachineTranslation_LSTM
+Click to edit project descriptionRecurrent neural networks have been performing well for learning tasks for several decades now. Yet, standard recurrent neural network architectures challenged with translation tasks can only provide a limited range of context which is problematic for complex translations. We use a RNN with a Long Short-Term Memory architecture and evaluate our model with highly specialized texts.
